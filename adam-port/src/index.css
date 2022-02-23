@@ -148,6 +148,7 @@ input:focus {
 
 li {
   list-style: none;
+  font-family: 'Roboto', sans-serif;
 }
 
 nav a:hover {
