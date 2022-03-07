@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/adam-port/static/css/main.218823c6.css",
+    "main.js": "/adam-port/static/js/main.6e666e68.js",
+    "static/js/787.203bbbdf.chunk.js": "/adam-port/static/js/787.203bbbdf.chunk.js",
+    "index.html": "/adam-port/index.html",
+    "main.218823c6.css.map": "/adam-port/static/css/main.218823c6.css.map",
+    "main.6e666e68.js.map": "/adam-port/static/js/main.6e666e68.js.map",
+    "787.203bbbdf.chunk.js.map": "/adam-port/static/js/787.203bbbdf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.218823c6.css",
+    "static/js/main.6e666e68.js"
+  ]
+}
