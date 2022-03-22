@@ -79,6 +79,7 @@ h6 {
 p {
   font-size: 1.1rem;
   margin-top: 0;
+  font-family: 'Roboto', sans-serif;
 }
 
 a {
@@ -97,6 +98,13 @@ header {
 
 header a {
   color: var(--light);
+}
+
+footer {
+  background-color: gray;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 button {
